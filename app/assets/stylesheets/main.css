@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.primary-nav {
+    background-color: #4CAF50;
+}
+
+.hero {
+    background-image: url(bunch-of-items.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bright-green-button {
+    background-color: #4CAF50;
+}
+
+.bright-green-button:hover {
+    background-color: #45a049;
+}
+
+.how-it-works-div {
+    max-width: 900px;
+}
+
+.feature {
+    border: 1px solid #ddd;
+}
+
+.primary-footer {
+    background-color: #333;
+}
+
+.primary-footer a {
+    color: #4CAF50;
+}
