@@ -1,25 +1,25 @@
 # README
 
 Exchange items
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Run locally
 
-* Ruby version
+We should use latest ruby (currently 3.3.2)
 
-* System dependencies
+No system dependencies.
 
-* Configuration
+To start you need to run
 
-* Database creation
+```
+bin/dev
+```
 
-* Database initialization
+## Test
 
-* How to run the test suite
+```
+rails test
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+## Deploy to production
 
-* Deployment instructions
-
-* ...
+TODO:

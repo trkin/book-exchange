@@ -61,3 +61,11 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# https://github.com/twbs/bootstrap-rubygem
+gem 'bootstrap', '~> 5.3.3'
+
+gem 'jquery-rails'
+
+gem "dartsass-rails", "~> 0.5.1"
+gem "foreman"
